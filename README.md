@@ -1,5 +1,4 @@
 # hello-world
-Just another repository
 
 Hello,
 Vinutha here, I'm interested in learning more Technologies.
